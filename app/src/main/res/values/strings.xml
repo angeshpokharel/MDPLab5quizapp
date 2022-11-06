@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assignment5QuizApp</string>
+    <string name="question1">1. When the Activity is no longer in the memory, it is said to be in the ________.</string>
+    <string name="question2">2. Android is________.</string>
+
+    <string name="q1_option1">stopped state</string>
+    <string name="q1_option2">paused state</string>
+    <string name="q1_option3">destroyed state</string>
+
+    <string name="q2_option1">a web server</string>
+    <string name="q2_option2">built on linux kernel</string>
+    <string name="q2_option3">an operating system</string>
+    
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+
+    <string name="heading">Each question carries 50 points</string>
+</resources>
